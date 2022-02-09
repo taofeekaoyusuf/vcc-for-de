@@ -1,9 +1,8 @@
-# Verve Coding Challenge for Data Engineers - vcc-for-de
-
-Data Engineering Coding Challenge
+# Verve Coding Challenge for Data Engineers
 
 
-### 1: **RUNNING THE CODE.
+
+### 1: RUNNING THE CODE.
 
 * This version of the challenge was done using PyCharm IDE Notebook in SparK.
 
@@ -12,7 +11,8 @@ Data Engineering Coding Challenge
 * The JSON datasets were pulled directly from the URL repository. And runnig the code is as easy as pressing `Shift key` + `Return key`.
 
 
-### 2: **TECHNICALITIES.
+
+### 2: TECHNICALITIES.
 
 * Even though the technical requirement specifies that Questions 1 and 2 be completed with Scala programming and Question 3 can be done using, I ensured
   that I completed the tasks with Python, Spark and Scala. 
@@ -21,7 +21,8 @@ Data Engineering Coding Challenge
   curiosity and exploration.
   
   
-### 3: **SUMMARIES OF MY FINDINGS ON THE DATASETS.
+  
+### 3: SUMMARIES OF MY FINDINGS ON THE DATASETS.
 
 * `clicks.json` is a clean JSON file with no empty or null fields. This is a very important dataset to determining the revenues generated per each advertised
 impression.
@@ -31,8 +32,9 @@ impression.
 * `impressions.json` file on the other hand has many missong values in the `country_code` field which possibly is one of the major field in computing the needed
   metrics and performance of the datasets.
   
+  
 
-### 4: **TAKE AWAY AND FUTURE OPTIMIZATION.
+### 4: TAKE AWAY AND FUTURE OPTIMIZATION.
 
 * According to the datasets, there are 4 major countries targeted by the advertisers, namely:
   
@@ -52,7 +54,11 @@ impression.
 * As future optimization to this project, the need to find a workaround to updating the empty 'country_code' field will be a major turning back, not only for
   the tageted markets, but for the Business insight of the company as a whole which could help diversify the company resources to the best location for optimum
   return on investment (ROI).
+  
+  
 
-Thank you for reading thus far. I hopefully-hope to hear from you sooon. 
+### 5: CLOSING REMARK.
+
+Thank you for reading thus far. I hopefully-hope to hear from you soon. 
 
   
