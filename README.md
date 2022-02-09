@@ -10,6 +10,8 @@
 
 * The JSON datasets were pulled directly from the URL repository. And runnig the code is as easy as pressing `Shift key` + `Return key`.
 
+* To run the scala file, simply call the `scala compiler` on the file in CLI having scala installed or better still, an IDE with 'scalac' support. 
+
 
 
 ### 2: TECHNICALITIES.
@@ -43,17 +45,17 @@ impression.
   * Italy, and
   * Denmark
 
-* There may be more, but at this time, we do not know for sure as some 'country_code' fields has been lost in transmission.
+* There may be more, but at this time, we do not know for sure as some `country_code` fields has been lost in transmission.
 
 * Major revenue where made out of United State and this is grossly can be inferred from the population of App Users staying in the US and which points out US as 
   the major marketing hub for advertisement, followed by UK while others follow, respectively.
 
-* The emppty fields in the 'country_code' field could drastically affect the metrics and performance computation as the data lost is somewhat irreversible 
+* The empty fields in the `country_code` field could drastically affect the metrics and performance computation as the data lost is somewhat irreversible 
   at this point.
   
-* As future optimization to this project, the need to find a workaround to updating the empty 'country_code' field will be a major turning back, not only for
-  the tageted markets, but for the Business insight of the company as a whole which could help diversify the company resources to the best location for optimum
-  return on investment (ROI).
+* As future optimization to this project, the need to find a workaround to updating the empty `country_code` field will be a major turning back, not only for
+  the tageted markets, but for the `Business insight` of the company as a whole which could help diversify the company resources to the best location for optimum
+  return on investment (`ROI`).
   
   
 
